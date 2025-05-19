@@ -1,25 +1,7 @@
-f[wf-,wf3f'
-flsflfmsf, sf
-s;f'skfplskf
+#!/bin/bash
 
 
-ljsfslfm
-s
-fkjnsf
-sfklsnfs
-
-
-sfkoshfioshfksf
-sfiohfko
-fjoisfhsfj
-sfjsopfjspofj
-sfsiofjsfpoj09u3;lf\]pr;lfsfoinsfnwpf
-
-sfpojsfojsfls
-f'lpmwf f\
-;
-s;f mw]f;
-sf;sfnkwkofhiw98hs
-f;s'
-flsnfsiofs''
-f;scS'fs90fuw7f8w
+echo "Ramesh:: Hello Suresh, How are you?"
+echo "Suresh:: Hi Ramesh, I am fine. How are you?"
+echo "Ramesh: I am fine too. how is your work?"
+echo "Suresh:: not bad. I am thinking to upgrade to DevOps"
